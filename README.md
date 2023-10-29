@@ -11,9 +11,8 @@ This is a simple Tkinter application that allows you to browse and open an image
 ## Installation
 
 1. Clone the repository
-2. Install the required Python packages:
-
-pip install Pillow
+2. Install the required Python package:
+`pip install Pillow`
  
 ## Usage
 
